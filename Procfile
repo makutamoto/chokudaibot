@@ -1,1 +1,1 @@
-worker: bin/discordbots
+worker: discordbots
